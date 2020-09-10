@@ -1,0 +1,13 @@
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.comhost.dll
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.deps.json
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.runtimeconfig.json
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.runtimeconfig.dev.json
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.dll
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.pdb
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\obj\Debug\netcoreapp3.1\COM.Server.Addition.AssemblyInfoInputs.cache
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\obj\Debug\netcoreapp3.1\COM.Server.Addition.AssemblyInfo.cs
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\obj\Debug\netcoreapp3.1\COM.Server.Addition.csproj.CoreCompileInputs.cache
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\obj\Debug\netcoreapp3.1\COM.Server.Addition.dll
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\obj\Debug\netcoreapp3.1\COM.Server.Addition.pdb
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\obj\Debug\netcoreapp3.1\COM.Server.Addition.genruntimeconfig.cache
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Server.Addition\obj\Debug\netcoreapp3.1\COM.Server.Addition.csprojAssemblyReference.cache

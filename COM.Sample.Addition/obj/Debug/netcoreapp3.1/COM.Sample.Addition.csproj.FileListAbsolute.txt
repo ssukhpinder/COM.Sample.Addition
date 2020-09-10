@@ -1,0 +1,17 @@
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.comhost.dll
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Sample.Addition.exe
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Sample.Addition.deps.json
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Sample.Addition.runtimeconfig.json
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Sample.Addition.runtimeconfig.dev.json
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Sample.Addition.dll
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Sample.Addition.pdb
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.dll
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\bin\Debug\netcoreapp3.1\COM.Server.Addition.pdb
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\obj\Debug\netcoreapp3.1\COM.Sample.Addition.csprojAssemblyReference.cache
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\obj\Debug\netcoreapp3.1\COM.Sample.Addition.AssemblyInfoInputs.cache
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\obj\Debug\netcoreapp3.1\COM.Sample.Addition.AssemblyInfo.cs
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\obj\Debug\netcoreapp3.1\COM.Sample.Addition.csproj.CoreCompileInputs.cache
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\obj\Debug\netcoreapp3.1\COM.Sample.Addition.csproj.CopyComplete
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\obj\Debug\netcoreapp3.1\COM.Sample.Addition.dll
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\obj\Debug\netcoreapp3.1\COM.Sample.Addition.pdb
+C:\Users\Sukhpinder Singh\source\repos\COM.Sample.Addition\COM.Sample.Addition\obj\Debug\netcoreapp3.1\COM.Sample.Addition.genruntimeconfig.cache
